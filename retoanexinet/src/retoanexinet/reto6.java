@@ -11,4 +11,6 @@ package retoanexinet;
  */
 public class reto6 {
     //Write a function that receives a matrix and returns its transposed one.
+    public static void main(String[] args){
+}
 }

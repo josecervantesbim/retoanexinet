@@ -21,6 +21,7 @@ but these centurial years are leap years if they are exactly divisible by 400.
 For example, the years 1700, 1800, and 1900 are not leap years, but the years 1600 and 2000 are.
 */
 public static void main(String [] args){
+    System.out.println("The next 20 leap years from 2021 are:");
     for (int i=0;i<=NUMBER_OF_LEAPYEARS*4;i++){
         
     if( (CURRENT_YEAR+i)%4==0){

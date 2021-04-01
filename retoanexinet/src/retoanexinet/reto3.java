@@ -11,4 +11,6 @@ package retoanexinet;
  */
 public class reto3 {
     // Given two strings, test whether one is an anagram of the other.
+    public static void main(String[] args){
+}
 }

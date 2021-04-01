@@ -16,4 +16,6 @@ valid (properly opened and closed) combinations of n-pairs of parentheses.
     // Input: 3
     // Output: ((())), (()()), (())(), ()(()), ()()()
     */
+    public static void main(String[] args){
+}
 }

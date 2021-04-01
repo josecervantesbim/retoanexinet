@@ -11,5 +11,6 @@ package retoanexinet;
  */
 public class reto4 {
     // Write a function that swaps two numbers without using temporary variables.
-
+public static void main(String[] args){
+}
 }

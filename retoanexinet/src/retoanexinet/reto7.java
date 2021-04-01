@@ -15,4 +15,6 @@ public class reto7 {
     adds them and prints the result in the console. You should not use + or any
     arithmetic operators.
     */
+    public static void main(String[] args){
+}
 }
